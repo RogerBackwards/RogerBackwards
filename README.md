@@ -1,5 +1,6 @@
 # 💫 About Me:
 [I usually use other repositories like CodeCommit, that's why I'm not so active here.]
+
 🙋🏽I am a full stack developer interested in all kind of technologies and development, but more based on game and mobile development, and very used to develop webpages. I have worked on big app developments as bank applications, as well as on small projects carrying the app analysis and architecture. The last 8 years, I have been combining app development on big projects along with freelancer web developing because I do enjoy it a lot.<br>🔭I am currently working on a Node.js + python project Raspberry Pi related and on some small IOS projects. Furthermore, I am also collaborating on some API and backend development.<br>♥️One of my passions are video games and procedural generation, so I am always learning desktop and mobile game development and also trying graphical tools to generate visuals.<br>🤝I like to collaborate with people's projects, so do not hesitate on asking me about anything I can help you with.<br>📩You can contact me through mail for project hiring or for any other reason you want.
 
 
